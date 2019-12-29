@@ -1,0 +1,5 @@
+[Added Associations]
+text/plain=org.gnome.gedit.desktop;
+application/pdf=org.gnome.Evince.desktop;libreoffice-draw.desktop;
+application/octet-stream=chromium.desktop;
+application/x-trash=chromium.desktop;

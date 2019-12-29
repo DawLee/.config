@@ -1,0 +1,9 @@
+2019/12/28-22:45:39.818 6c3 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/12/28-22:45:39.818 6c3 Recovering log #8
+2019/12/28-22:45:39.820 6c3 Reusing old log Session Storage/000008.log 
+2019/12/28-22:46:38.882 799 Level-0 table #12: started
+2019/12/28-22:46:38.895 799 Level-0 table #12: 52717 bytes OK
+2019/12/28-22:46:38.897 799 Delete type=0 #8
+2019/12/28-22:52:42.690 abc Level-0 table #14: started
+2019/12/28-22:52:42.702 abc Level-0 table #14: 50132 bytes OK
+2019/12/28-22:52:42.707 abc Delete type=0 #11
